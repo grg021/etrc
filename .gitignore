@@ -396,3 +396,4 @@ joomla.xml
 *.txt
 /nbproject/private/
 /nbproject/
+/templates/yoo_master/
