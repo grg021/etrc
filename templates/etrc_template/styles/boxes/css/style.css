@@ -1,0 +1,82 @@
+/* Copyright (C) YOOtheme GmbH, YOOtheme Proprietary Use License (http://www.yootheme.com/license) */
+
+/* Empty, so the default theme style.css is not loaded for this style */
+
+body { background: #f1f1f1; }
+
+div#main { margin: 15px 0; }
+
+#menubar { background: #051539; padding: 10px 0; margin-bottom: 15px; }
+
+.menu-dropdown a.level1, .menu-dropdown span.level1 { 
+    border: none; 
+    color: #EEC49B;
+    text-transform: uppercase;
+}
+
+#header { margin: 0; }
+#headerbar { margin-bottom: 0; position: relative }
+
+div.module.signup { position: absolute; bottom: 0; right: 0; }
+
+#block-bottom {
+    background: #010b22;
+    padding-top: 20px;
+    margin-top: 20px;
+    padding-bottom: 20px;
+    color: #eec49b;
+    border-top: 1px solid #FFF;
+}
+
+#block-bottom .module h3 {
+    color: #FFF;
+    font-size: 25px;
+    line-height: 28px;
+    font-family: "Arial Narrow", Arial, sans-serif;
+}
+
+.footer1 {
+    text-align: right;
+    color: #68758b;
+    font-size: 12px;
+    padding-top: 10px;
+}
+
+.sitemap .menu li { border: none; float: left; width: 135px; }
+
+.sitemap .menu li a { color: #eec49b; }
+
+.footerflag {
+    font-size: 12px;
+    margin-top: 30px !important;
+}
+    
+.footerflag img { height: 35px; padding-right: 5px ;}
+
+div.module .yellowbg {
+    background: #d8b15e;
+    color: #FFF;
+    clear: both;
+    overflow: hidden;
+    margin: 15px -15px 0;
+}
+
+div.module .yellowbg h3 { margin-top: 15px !important; }
+
+form.short input[type="text"],
+form.short input[type="password"] {
+    padding: 8px 6px;
+    border: 1px solid #CCC;
+    border-radius: 4px;
+    width: 185px;
+}
+
+form button {
+    background: #c29f54;
+    border: 1px solid #c29f54;
+    border-radius: 4px;
+    color: #FFF;
+    padding: 6px 8px;
+}
+
+form.short .blank { display: none; }
