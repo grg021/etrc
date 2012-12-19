@@ -28,6 +28,7 @@ include($this['path']->path('layouts:template.config.php'));
 		<header id="header">
 
 			<?php if ($this['modules']->count('toolbar-l + toolbar-r') || $this['config']->get('date')) : ?>
+			<div id="toolbar-block">
                         <div class="wrapper clearfix">
 			<div id="toolbar" class="clearfix">
 
@@ -49,6 +50,7 @@ include($this['path']->path('layouts:template.config.php'));
 				
 			</div>
                         </div>
+            </div>
 			<?php endif; ?>
 
 			<?php if ($this['modules']->count('logo + headerbar')) : ?>	

@@ -65,6 +65,8 @@ JHtml::_('behavior.keepalive');
 		
 		<div class="button">
 			<button value="<?php echo JText::_('JLOGIN') ?>" name="Submit" type="submit"><?php echo JText::_('JLOGIN') ?></button>
+			<strong>or</strong>
+			<a href="<?php echo JRoute::_('index.php?option=com_users&view=registration'); ?>"><?php echo JText::_('MOD_LOGIN_REGISTER'); ?></a>
 		</div>
 		
 		<ul class="blank">

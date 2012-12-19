@@ -54,7 +54,7 @@ class JConfig {
 	public $unicodeslugs = '0';
 	public $feed_limit = '10';
 	public $log_path = '/srv/vhost/etrc/logs';
-	public $tmp_path = '/Users/grg021/Sites/etrc/tmp';
+	public $tmp_path = '/srv/vhost/etrc/tmp';
 	public $lifetime = '15';
 	public $session_handler = 'database';
 	public $MetaRights = '';

@@ -5,3 +5,4 @@
 
 #Fields: date	time	priority	clientip	category	message
 2012-12-13	03:28:44	INFO	202.90.156.240	Joomla FAILURE: 	Empty password not allowed
+2012-12-13	09:43:27	INFO	202.90.156.240	Joomla FAILURE: 	Empty password not allowed
