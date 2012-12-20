@@ -1,0 +1,1219 @@
+2012-12-19 16:01:35 url: /index.php?option=com_jshopping&controller=checkout&task=step7&act=notify&js_paymentclass=pm_paypal&no_lang=1
+mc_gross=75.00
+protection_eligibility=Ineligible
+payer_id=PHL9YV2HRRPMJ
+tax=0.00
+payment_date=00:01:31 Dec 19, 2012 PST
+payment_status=Completed
+charset=windows-1252
+first_name=greg
+mc_fee=17.18
+notify_version=3.7
+custom=33
+payer_status=verified
+business=gardin_1344575780_biz@yahoo.com
+quantity=1
+verify_sign=A5CRvqyZh9riTFiQDOKgneAnuKwEAM0fzAYj0djBC7yuCIZfFyhrffg5
+payer_email=greg_1355799613_per@yahoo.com
+txn_id=18C0366438488730P
+payment_type=instant
+last_name=hermo
+receiver_email=gardin_1344575780_biz@yahoo.com
+payment_fee=
+receiver_id=EPX27UQ8FP43G
+txn_type=web_accept
+item_name=Order number 00000033
+mc_currency=PHP
+item_number=
+residence_country=US
+test_ipn=1
+handling_amount=0.00
+transaction_subject=33
+payment_gross=
+shipping=0.00
+ipn_track_id=7dd70b9ddea8f
+
+2012-12-19 16:01:40 HTTP/1.0 302 Moved Temporarily
+Date: Wed, 19 Dec 2012 07:58:14 GMT
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Content-Length: 0
+X-Cache: MISS from cpe-tbi.pregi.net
+X-Cache-Lookup: MISS from cpe-tbi.pregi.net:3128
+Via: 1.0 cpe-tbi.pregi.net (squid/3.1.10)
+Connection: close
+
+
+2012-12-19 16:01:44 url: /index.php?option=com_jshopping&controller=checkout&task=step7&act=return&js_paymentclass=pm_paypal
+mc_gross=75.00
+protection_eligibility=Ineligible
+payer_id=PHL9YV2HRRPMJ
+tax=0.00
+payment_date=00:01:31 Dec 19, 2012 PST
+payment_status=Completed
+charset=windows-1252
+first_name=greg
+mc_fee=17.18
+notify_version=3.7
+custom=33
+payer_status=verified
+business=gardin_1344575780_biz@yahoo.com
+quantity=1
+payer_email=greg_1355799613_per@yahoo.com
+verify_sign=AiPC9BjkCyDFQXbSkoZcgqH3hpacAVcbA5lGiPDtqJJXwqNkqv.aazHm
+txn_id=18C0366438488730P
+payment_type=instant
+last_name=hermo
+receiver_email=gardin_1344575780_biz@yahoo.com
+payment_fee=
+receiver_id=EPX27UQ8FP43G
+txn_type=web_accept
+item_name=Order number 00000033
+mc_currency=PHP
+item_number=
+residence_country=US
+test_ipn=1
+handling_amount=0.00
+transaction_subject=33
+payment_gross=
+shipping=0.00
+form_charset=UTF-8
+
+2012-12-20 10:15:48 url: /index.php?option=com_jshopping&controller=checkout&task=step7&act=notify&js_paymentclass=pm_paypal&no_lang=1
+mc_gross=50.00
+protection_eligibility=Ineligible
+payer_id=PHL9YV2HRRPMJ
+tax=0.00
+payment_date=18:15:44 Dec 19, 2012 PST
+payment_status=Completed
+charset=windows-1252
+first_name=greg
+mc_fee=16.45
+notify_version=3.7
+custom=34
+payer_status=verified
+business=gardin_1344575780_biz@yahoo.com
+quantity=1
+verify_sign=A2bQIS4.WWK0MYZvJ7gBMTKtPtW5AOKIPsmoOxtAmdG9kJOloIlX92mL
+payer_email=greg_1355799613_per@yahoo.com
+txn_id=6A690205DE948340W
+payment_type=instant
+last_name=hermo
+receiver_email=gardin_1344575780_biz@yahoo.com
+payment_fee=
+receiver_id=EPX27UQ8FP43G
+txn_type=web_accept
+item_name=Order number 00000034
+mc_currency=PHP
+item_number=
+residence_country=US
+test_ipn=1
+handling_amount=0.00
+transaction_subject=34
+payment_gross=
+shipping=0.00
+ipn_track_id=5f023d22e21d5
+
+2012-12-20 10:15:49 HTTP/1.0 302 Moved Temporarily
+Date: Thu, 20 Dec 2012 02:12:23 GMT
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Content-Length: 0
+X-Cache: MISS from cpe-tbi.pregi.net
+X-Cache-Lookup: MISS from cpe-tbi.pregi.net:3128
+Via: 1.0 cpe-tbi.pregi.net (squid/3.1.10)
+Connection: close
+
+
+2012-12-20 10:15:54 url: /index.php?option=com_jshopping&controller=checkout&task=step7&act=return&js_paymentclass=pm_paypal
+mc_gross=50.00
+protection_eligibility=Ineligible
+payer_id=PHL9YV2HRRPMJ
+tax=0.00
+payment_date=18:15:44 Dec 19, 2012 PST
+payment_status=Completed
+charset=windows-1252
+first_name=greg
+mc_fee=16.45
+notify_version=3.7
+custom=34
+payer_status=verified
+business=gardin_1344575780_biz@yahoo.com
+quantity=1
+payer_email=greg_1355799613_per@yahoo.com
+verify_sign=AiPC9BjkCyDFQXbSkoZcgqH3hpacAvlQFq4sHNbSrxqMPJICzBVNwIMa
+txn_id=6A690205DE948340W
+payment_type=instant
+last_name=hermo
+receiver_email=gardin_1344575780_biz@yahoo.com
+payment_fee=
+receiver_id=EPX27UQ8FP43G
+txn_type=web_accept
+item_name=Order number 00000034
+mc_currency=PHP
+item_number=
+residence_country=US
+test_ipn=1
+handling_amount=0.00
+transaction_subject=34
+payment_gross=
+shipping=0.00
+form_charset=UTF-8
+
+2012-12-20 11:15:30 url: /index.php?option=com_jshopping&controller=checkout&task=step7&act=notify&js_paymentclass=pm_paypal&no_lang=1
+mc_gross=72.00
+protection_eligibility=Ineligible
+payer_id=PHL9YV2HRRPMJ
+tax=0.00
+payment_date=19:15:26 Dec 19, 2012 PST
+payment_status=Completed
+charset=windows-1252
+first_name=greg
+mc_fee=17.09
+notify_version=3.7
+custom=35
+payer_status=verified
+business=gardin_1344575780_biz@yahoo.com
+quantity=1
+verify_sign=AiPC9BjkCyDFQXbSkoZcgqH3hpacAcXQB5YZ.q.shzq4wdDq9g0Wqrck
+payer_email=greg_1355799613_per@yahoo.com
+txn_id=4MF88288X2360754K
+payment_type=instant
+last_name=hermo
+receiver_email=gardin_1344575780_biz@yahoo.com
+payment_fee=
+receiver_id=EPX27UQ8FP43G
+txn_type=web_accept
+item_name=Order number 00000035
+mc_currency=PHP
+item_number=
+residence_country=US
+test_ipn=1
+handling_amount=0.00
+transaction_subject=35
+payment_gross=
+shipping=0.00
+ipn_track_id=edebbbee78e8f
+
+2012-12-20 11:15:35 url: /index.php?option=com_jshopping&controller=checkout&task=step7&act=return&js_paymentclass=pm_paypal
+mc_gross=72.00
+protection_eligibility=Ineligible
+payer_id=PHL9YV2HRRPMJ
+tax=0.00
+payment_date=19:15:26 Dec 19, 2012 PST
+payment_status=Completed
+charset=windows-1252
+first_name=greg
+mc_fee=17.09
+notify_version=3.7
+custom=35
+payer_status=verified
+business=gardin_1344575780_biz@yahoo.com
+quantity=1
+payer_email=greg_1355799613_per@yahoo.com
+verify_sign=AXIG7J3AhPMOf2EP7EAfWIAtYakkApeBspNSBkYZ7AByRNxVVLomTDVx
+txn_id=4MF88288X2360754K
+payment_type=instant
+last_name=hermo
+receiver_email=gardin_1344575780_biz@yahoo.com
+payment_fee=
+receiver_id=EPX27UQ8FP43G
+txn_type=web_accept
+item_name=Order number 00000035
+mc_currency=PHP
+item_number=
+residence_country=US
+test_ipn=1
+handling_amount=0.00
+transaction_subject=35
+payment_gross=
+shipping=0.00
+form_charset=UTF-8
+
+2012-12-20 11:15:36 HTTP/1.0 302 Moved Temporarily
+Date: Thu, 20 Dec 2012 03:12:10 GMT
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Content-Length: 0
+X-Cache: MISS from cpe-tbi.pregi.net
+X-Cache-Lookup: MISS from cpe-tbi.pregi.net:3128
+Via: 1.0 cpe-tbi.pregi.net (squid/3.1.10)
+Connection: close
+
+
+2012-12-20 11:39:24 url: /index.php?option=com_jshopping&controller=checkout&task=step7&act=notify&js_paymentclass=pm_paypal&no_lang=1
+
+2012-12-20 11:39:55 url: /index.php?option=com_jshopping&controller=checkout&task=step7&act=notify&js_paymentclass=pm_paypal&no_lang=1
+
+2012-12-20 11:42:25 url: /index.php?option=com_jshopping&controller=checkout&task=step7&act=notify&js_paymentclass=pm_paypal&no_lang=1
+
+2012-12-20 11:42:58 url: /index.php?option=com_jshopping&controller=checkout&task=step7&act=return&js_paymentclass=pm_paypal
+
+2012-12-20 11:43:01 url: /index.php?option=com_jshopping&controller=checkout&task=step7&act=return&js_paymentclass=pm_paypal
+
+2012-12-20 11:44:32 url: /index.php?option=com_jshopping&controller=checkout&task=step7&act=notify&js_paymentclass=pm_paypal&no_lang=1
+mc_gross=75.00
+protection_eligibility=Ineligible
+payer_id=PHL9YV2HRRPMJ
+tax=0.00
+payment_date=19:44:29 Dec 19, 2012 PST
+payment_status=Completed
+charset=windows-1252
+first_name=greg
+mc_fee=17.18
+notify_version=3.7
+custom=36
+payer_status=verified
+business=gardin_1344575780_biz@yahoo.com
+quantity=1
+verify_sign=AFcWxV21C7fd0v3bYYYRCpSSRl31A9RHB3Uii464lzbnb7xQORLZVqCb
+payer_email=greg_1355799613_per@yahoo.com
+txn_id=57Y95455Y03027232
+payment_type=instant
+last_name=hermo
+receiver_email=gardin_1344575780_biz@yahoo.com
+payment_fee=
+receiver_id=EPX27UQ8FP43G
+txn_type=web_accept
+item_name=Order number 00000036
+mc_currency=PHP
+item_number=
+residence_country=US
+test_ipn=1
+handling_amount=0.00
+transaction_subject=36
+payment_gross=
+shipping=0.00
+ipn_track_id=66ec66c24526a
+
+2012-12-20 11:44:32 HTTP/1.0 302 Moved Temporarily
+Date: Thu, 20 Dec 2012 03:41:06 GMT
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Content-Length: 0
+X-Cache: MISS from cpe-tbi.pregi.net
+X-Cache-Lookup: MISS from cpe-tbi.pregi.net:3128
+Via: 1.0 cpe-tbi.pregi.net (squid/3.1.10)
+Connection: close
+
+
+2012-12-20 11:44:38 url: /index.php?option=com_jshopping&controller=checkout&task=step7&act=return&js_paymentclass=pm_paypal
+mc_gross=75.00
+protection_eligibility=Ineligible
+payer_id=PHL9YV2HRRPMJ
+tax=0.00
+payment_date=19:44:29 Dec 19, 2012 PST
+payment_status=Completed
+charset=windows-1252
+first_name=greg
+mc_fee=17.18
+notify_version=3.7
+custom=36
+payer_status=verified
+business=gardin_1344575780_biz@yahoo.com
+quantity=1
+payer_email=greg_1355799613_per@yahoo.com
+verify_sign=ABo2oVHSqBmbRKJH6sZBC6qsBJNsAV1g-tpFc9kT4kobVyuTYMFRTUoc
+txn_id=57Y95455Y03027232
+payment_type=instant
+last_name=hermo
+receiver_email=gardin_1344575780_biz@yahoo.com
+payment_fee=
+receiver_id=EPX27UQ8FP43G
+txn_type=web_accept
+item_name=Order number 00000036
+mc_currency=PHP
+item_number=
+residence_country=US
+test_ipn=1
+handling_amount=0.00
+transaction_subject=36
+payment_gross=
+shipping=0.00
+form_charset=UTF-8
+
+2012-12-20 11:52:11 url: /index.php?option=com_jshopping&controller=checkout&task=step7&act=notify&js_paymentclass=pm_paypal&no_lang=1
+mc_gross=75.00
+protection_eligibility=Ineligible
+payer_id=PHL9YV2HRRPMJ
+tax=0.00
+payment_date=19:52:08 Dec 19, 2012 PST
+payment_status=Completed
+charset=windows-1252
+first_name=greg
+mc_fee=17.18
+notify_version=3.7
+custom=37
+payer_status=verified
+business=gardin_1344575780_biz@yahoo.com
+quantity=1
+verify_sign=AFcWxV21C7fd0v3bYYYRCpSSRl31Ajcrz.awXWFdUBeGCu2LWDAQYQ1Q
+payer_email=greg_1355799613_per@yahoo.com
+txn_id=9L669707EH880390R
+payment_type=instant
+last_name=hermo
+receiver_email=gardin_1344575780_biz@yahoo.com
+payment_fee=
+receiver_id=EPX27UQ8FP43G
+txn_type=web_accept
+item_name=Order number 00000037
+mc_currency=PHP
+item_number=
+residence_country=US
+test_ipn=1
+handling_amount=0.00
+transaction_subject=37
+payment_gross=
+shipping=0.00
+ipn_track_id=666bf18bbbdfc
+
+2012-12-20 11:52:12 HTTP/1.0 302 Moved Temporarily
+Date: Thu, 20 Dec 2012 03:48:45 GMT
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Content-Length: 0
+X-Cache: MISS from cpe-tbi.pregi.net
+X-Cache-Lookup: MISS from cpe-tbi.pregi.net:3128
+Via: 1.0 cpe-tbi.pregi.net (squid/3.1.10)
+Connection: close
+
+
+2012-12-20 11:52:17 url: /index.php?option=com_jshopping&controller=checkout&task=step7&act=return&js_paymentclass=pm_paypal
+mc_gross=75.00
+protection_eligibility=Ineligible
+payer_id=PHL9YV2HRRPMJ
+tax=0.00
+payment_date=19:52:08 Dec 19, 2012 PST
+payment_status=Completed
+charset=windows-1252
+first_name=greg
+mc_fee=17.18
+notify_version=3.7
+custom=37
+payer_status=verified
+business=gardin_1344575780_biz@yahoo.com
+quantity=1
+payer_email=greg_1355799613_per@yahoo.com
+verify_sign=AFcWxV21C7fd0v3bYYYRCpSSRl31Ajcrz.awXWFdUBeGCu2LWDAQYQ1Q
+txn_id=9L669707EH880390R
+payment_type=instant
+last_name=hermo
+receiver_email=gardin_1344575780_biz@yahoo.com
+payment_fee=
+receiver_id=EPX27UQ8FP43G
+txn_type=web_accept
+item_name=Order number 00000037
+mc_currency=PHP
+item_number=
+residence_country=US
+test_ipn=1
+handling_amount=0.00
+transaction_subject=37
+payment_gross=
+shipping=0.00
+form_charset=UTF-8
+
+2012-12-20 11:53:34 url: /index.php?option=com_jshopping&controller=checkout&task=step7&act=return&js_paymentclass=pm_paypal.php
+
+2012-12-20 11:53:38 url: /index.php?option=com_jshopping&controller=checkout&task=step7&act=return&js_paymentclass=pm_paypal.php
+
+2012-12-20 11:53:41 url: /index.php?option=com_jshopping&controller=checkout&task=step7&act=notify&js_paymentclass=pm_paypal.php
+
+2012-12-20 11:53:45 url: /index.php?option=com_jshopping&controller=checkout&task=step7&act=return&js_paymentclass=pm_paypal.php
+
+2012-12-20 11:55:10 url: /index.php?option=com_jshopping&controller=checkout&task=step7&act=notify&js_paymentclass=pm_paypal&no_lang=1
+
+2012-12-20 11:57:56 url: /index.php?option=com_jshopping&controller=checkout&task=step7&act=notify&js_paymentclass=pm_paypal&no_lang=1
+mc_gross=75.00
+protection_eligibility=Ineligible
+payer_id=PHL9YV2HRRPMJ
+tax=0.00
+payment_date=19:57:53 Dec 19, 2012 PST
+payment_status=Completed
+charset=windows-1252
+first_name=greg
+mc_fee=17.18
+notify_version=3.7
+custom=38
+payer_status=verified
+business=gardin_1344575780_biz@yahoo.com
+quantity=1
+verify_sign=AFJLAOuzSiCNRMK3ZGkpHSQyj2nVA.jCuGHwnjjMu34aDDyGx5uyHbAz
+payer_email=greg_1355799613_per@yahoo.com
+txn_id=556169091M221474A
+payment_type=instant
+last_name=hermo
+receiver_email=gardin_1344575780_biz@yahoo.com
+payment_fee=
+receiver_id=EPX27UQ8FP43G
+txn_type=web_accept
+item_name=Order number 00000038
+mc_currency=PHP
+item_number=
+residence_country=US
+test_ipn=1
+handling_amount=0.00
+transaction_subject=38
+payment_gross=
+shipping=0.00
+ipn_track_id=f6153545f19da
+
+2012-12-20 11:57:57 HTTP/1.0 302 Moved Temporarily
+Date: Thu, 20 Dec 2012 03:54:31 GMT
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Content-Length: 0
+X-Cache: MISS from cpe-tbi.pregi.net
+X-Cache-Lookup: MISS from cpe-tbi.pregi.net:3128
+Via: 1.0 cpe-tbi.pregi.net (squid/3.1.10)
+Connection: close
+
+
+2012-12-20 11:58:02 url: /index.php?option=com_jshopping&controller=checkout&task=step7&act=return&js_paymentclass=pm_paypal
+mc_gross=75.00
+protection_eligibility=Ineligible
+payer_id=PHL9YV2HRRPMJ
+tax=0.00
+payment_date=19:57:53 Dec 19, 2012 PST
+payment_status=Completed
+charset=windows-1252
+first_name=greg
+mc_fee=17.18
+notify_version=3.7
+custom=38
+payer_status=verified
+business=gardin_1344575780_biz@yahoo.com
+quantity=1
+payer_email=greg_1355799613_per@yahoo.com
+verify_sign=AVPMt-4Fm8Wth2HhOsIDUk6lRtqWAaZR2I8-YcaybRUzZcfAMRgMq2kV
+txn_id=556169091M221474A
+payment_type=instant
+last_name=hermo
+receiver_email=gardin_1344575780_biz@yahoo.com
+payment_fee=
+receiver_id=EPX27UQ8FP43G
+txn_type=web_accept
+item_name=Order number 00000038
+mc_currency=PHP
+item_number=
+residence_country=US
+test_ipn=1
+handling_amount=0.00
+transaction_subject=38
+payment_gross=
+shipping=0.00
+form_charset=UTF-8
+
+2012-12-20 12:08:54 url: /index.php?option=com_jshopping&controller=checkout&task=step7&act=notify&js_paymentclass=pm_paypal&no_lang=1
+mc_gross=20.00
+protection_eligibility=Ineligible
+payer_id=PHL9YV2HRRPMJ
+tax=0.00
+payment_date=20:08:51 Dec 19, 2012 PST
+payment_status=Completed
+charset=windows-1252
+first_name=greg
+mc_fee=15.58
+notify_version=3.7
+custom=39
+payer_status=verified
+business=gardin_1344575780_biz@yahoo.com
+quantity=1
+verify_sign=AMPT5c196v3fG-TDlkYyiNbHjLqhALMub9xOgupvPZbcNoqsHgqJJat7
+payer_email=greg_1355799613_per@yahoo.com
+txn_id=8PA01172WD184742H
+payment_type=instant
+last_name=hermo
+receiver_email=gardin_1344575780_biz@yahoo.com
+payment_fee=
+receiver_id=EPX27UQ8FP43G
+txn_type=web_accept
+item_name=Order number 00000039
+mc_currency=PHP
+item_number=
+residence_country=US
+test_ipn=1
+handling_amount=0.00
+transaction_subject=39
+payment_gross=
+shipping=0.00
+ipn_track_id=510397e4cb38
+
+2012-12-20 12:08:55 HTTP/1.0 302 Moved Temporarily
+Date: Thu, 20 Dec 2012 04:05:29 GMT
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Content-Length: 0
+X-Cache: MISS from cpe-tbi.pregi.net
+X-Cache-Lookup: MISS from cpe-tbi.pregi.net:3128
+Via: 1.0 cpe-tbi.pregi.net (squid/3.1.10)
+Connection: close
+
+
+2012-12-20 12:09:06 url: /index.php?option=com_jshopping&controller=checkout&task=step7&act=return&js_paymentclass=pm_paypal
+mc_gross=20.00
+protection_eligibility=Ineligible
+payer_id=PHL9YV2HRRPMJ
+tax=0.00
+payment_date=20:08:51 Dec 19, 2012 PST
+payment_status=Completed
+charset=windows-1252
+first_name=greg
+mc_fee=15.58
+notify_version=3.7
+custom=39
+payer_status=verified
+business=gardin_1344575780_biz@yahoo.com
+quantity=1
+payer_email=greg_1355799613_per@yahoo.com
+verify_sign=AFcWxV21C7fd0v3bYYYRCpSSRl31ASD9b6DKYGkguJUp72bfKMR2yvE.
+txn_id=8PA01172WD184742H
+payment_type=instant
+last_name=hermo
+receiver_email=gardin_1344575780_biz@yahoo.com
+payment_fee=
+receiver_id=EPX27UQ8FP43G
+txn_type=web_accept
+item_name=Order number 00000039
+mc_currency=PHP
+item_number=
+residence_country=US
+test_ipn=1
+handling_amount=0.00
+transaction_subject=39
+payment_gross=
+shipping=0.00
+form_charset=UTF-8
+
+2012-12-20 12:11:14 url: /index.php?option=com_jshopping&controller=checkout&task=step7&act=return&js_paymentclass=pm_paypal
+
+2012-12-20 12:11:25 url: /index.php?option=com_jshopping&controller=checkout&task=step7&act=return&js_paymentclass=pm_paypal
+
+2012-12-20 12:13:13 url: /index.php?option=com_jshopping&controller=checkout&task=step7&act=notify&js_paymentclass=pm_paypal&no_lang=1
+mc_gross=75.00
+protection_eligibility=Ineligible
+payer_id=PHL9YV2HRRPMJ
+tax=0.00
+payment_date=20:13:10 Dec 19, 2012 PST
+payment_status=Completed
+charset=windows-1252
+first_name=greg
+mc_fee=17.18
+notify_version=3.7
+custom=40
+payer_status=verified
+business=gardin_1344575780_biz@yahoo.com
+quantity=1
+verify_sign=AFcWxV21C7fd0v3bYYYRCpSSRl31AomqDDcepoc-BuJQQJaIgz2m82go
+payer_email=greg_1355799613_per@yahoo.com
+txn_id=8PA26781EP616211F
+payment_type=instant
+last_name=hermo
+receiver_email=gardin_1344575780_biz@yahoo.com
+payment_fee=
+receiver_id=EPX27UQ8FP43G
+txn_type=web_accept
+item_name=Order number 00000040
+mc_currency=PHP
+item_number=
+residence_country=US
+test_ipn=1
+handling_amount=0.00
+transaction_subject=40
+payment_gross=
+shipping=0.00
+ipn_track_id=fdcbe17393bbf
+
+2012-12-20 12:13:14 HTTP/1.0 302 Moved Temporarily
+Date: Thu, 20 Dec 2012 04:09:48 GMT
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Content-Length: 0
+X-Cache: MISS from cpe-tbi.pregi.net
+X-Cache-Lookup: MISS from cpe-tbi.pregi.net:3128
+Via: 1.0 cpe-tbi.pregi.net (squid/3.1.10)
+Connection: close
+
+
+2012-12-20 12:13:21 url: /index.php?option=com_jshopping&controller=checkout&task=step7&act=return&js_paymentclass=pm_paypal
+mc_gross=75.00
+protection_eligibility=Ineligible
+payer_id=PHL9YV2HRRPMJ
+tax=0.00
+payment_date=20:13:10 Dec 19, 2012 PST
+payment_status=Completed
+charset=windows-1252
+first_name=greg
+mc_fee=17.18
+notify_version=3.7
+custom=40
+payer_status=verified
+business=gardin_1344575780_biz@yahoo.com
+quantity=1
+payer_email=greg_1355799613_per@yahoo.com
+verify_sign=An5ns1Kso7MWUdW4ErQKJJJ4qi4-AbUBEnnVUvvKxNCBxrHfF7GHbOiJ
+txn_id=8PA26781EP616211F
+payment_type=instant
+last_name=hermo
+receiver_email=gardin_1344575780_biz@yahoo.com
+payment_fee=
+receiver_id=EPX27UQ8FP43G
+txn_type=web_accept
+item_name=Order number 00000040
+mc_currency=PHP
+item_number=
+residence_country=US
+test_ipn=1
+handling_amount=0.00
+transaction_subject=40
+payment_gross=
+shipping=0.00
+form_charset=UTF-8
+
+2012-12-20 12:18:01 url: /index.php?option=com_jshopping&controller=checkout&task=step7&act=notify&js_paymentclass=pm_paypal&no_lang=1
+mc_gross=75.00
+protection_eligibility=Ineligible
+payer_id=PHL9YV2HRRPMJ
+tax=0.00
+payment_date=20:17:56 Dec 19, 2012 PST
+payment_status=Completed
+charset=windows-1252
+first_name=greg
+mc_fee=17.18
+notify_version=3.7
+custom=41
+payer_status=verified
+business=gardin_1344575780_biz@yahoo.com
+quantity=1
+verify_sign=Ai1PaghZh5FmBLCDCTQpwG8jB264AmdK6bJfFjjb-AGdFtYM53hzQat.
+payer_email=greg_1355799613_per@yahoo.com
+txn_id=58F45020KE4923904
+payment_type=instant
+last_name=hermo
+receiver_email=gardin_1344575780_biz@yahoo.com
+payment_fee=
+receiver_id=EPX27UQ8FP43G
+txn_type=web_accept
+item_name=Order number 00000041
+mc_currency=PHP
+item_number=
+residence_country=US
+test_ipn=1
+handling_amount=0.00
+transaction_subject=41
+payment_gross=
+shipping=0.00
+ipn_track_id=fcb59fca903fa
+
+2012-12-20 12:18:02 HTTP/1.0 302 Moved Temporarily
+Date: Thu, 20 Dec 2012 04:14:35 GMT
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Content-Length: 0
+X-Cache: MISS from cpe-tbi.pregi.net
+X-Cache-Lookup: MISS from cpe-tbi.pregi.net:3128
+Via: 1.0 cpe-tbi.pregi.net (squid/3.1.10)
+Connection: close
+
+
+2012-12-20 12:18:08 url: /index.php?option=com_jshopping&controller=checkout&task=step7&act=return&js_paymentclass=pm_paypal
+mc_gross=75.00
+protection_eligibility=Ineligible
+payer_id=PHL9YV2HRRPMJ
+tax=0.00
+payment_date=20:17:56 Dec 19, 2012 PST
+payment_status=Completed
+charset=windows-1252
+first_name=greg
+mc_fee=17.18
+notify_version=3.7
+custom=41
+payer_status=verified
+business=gardin_1344575780_biz@yahoo.com
+quantity=1
+payer_email=greg_1355799613_per@yahoo.com
+verify_sign=APSci5tkC3c4htP8YbqeJ7Dvp6i.AxyPUKy73ybuSOE4XrkDdRn8Ce53
+txn_id=58F45020KE4923904
+payment_type=instant
+last_name=hermo
+receiver_email=gardin_1344575780_biz@yahoo.com
+payment_fee=
+receiver_id=EPX27UQ8FP43G
+txn_type=web_accept
+item_name=Order number 00000041
+mc_currency=PHP
+item_number=
+residence_country=US
+test_ipn=1
+handling_amount=0.00
+transaction_subject=41
+payment_gross=
+shipping=0.00
+form_charset=UTF-8
+
+2012-12-20 12:22:27 url: /index.php?option=com_jshopping&controller=checkout&task=step7&act=notify&js_paymentclass=pm_paypal&no_lang=1
+mc_gross=75.00
+protection_eligibility=Ineligible
+payer_id=PHL9YV2HRRPMJ
+tax=0.00
+payment_date=20:22:24 Dec 19, 2012 PST
+payment_status=Completed
+charset=windows-1252
+first_name=greg
+mc_fee=17.18
+notify_version=3.7
+custom=42
+payer_status=verified
+business=gardin_1344575780_biz@yahoo.com
+quantity=1
+verify_sign=Apl0xovyo54DJGWgPKhBB8UYYlTvAn6SukYdTAwLc8D6SdXqHxOIqKOQ
+payer_email=greg_1355799613_per@yahoo.com
+txn_id=02P53903CJ092735G
+payment_type=instant
+last_name=hermo
+receiver_email=gardin_1344575780_biz@yahoo.com
+payment_fee=
+receiver_id=EPX27UQ8FP43G
+txn_type=web_accept
+item_name=Order number 00000042
+mc_currency=PHP
+item_number=
+residence_country=US
+test_ipn=1
+handling_amount=0.00
+transaction_subject=42
+payment_gross=
+shipping=0.00
+ipn_track_id=2c8ee38b5a5b9
+
+2012-12-20 12:22:28 HTTP/1.0 302 Moved Temporarily
+Date: Thu, 20 Dec 2012 04:19:01 GMT
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Content-Length: 0
+X-Cache: MISS from cpe-tbi.pregi.net
+X-Cache-Lookup: MISS from cpe-tbi.pregi.net:3128
+Via: 1.0 cpe-tbi.pregi.net (squid/3.1.10)
+Connection: close
+
+
+2012-12-20 12:22:34 url: /index.php?option=com_jshopping&controller=checkout&task=step7&act=return&js_paymentclass=pm_paypal
+mc_gross=75.00
+protection_eligibility=Ineligible
+payer_id=PHL9YV2HRRPMJ
+tax=0.00
+payment_date=20:22:24 Dec 19, 2012 PST
+payment_status=Completed
+charset=windows-1252
+first_name=greg
+mc_fee=17.18
+notify_version=3.7
+custom=42
+payer_status=verified
+business=gardin_1344575780_biz@yahoo.com
+quantity=1
+payer_email=greg_1355799613_per@yahoo.com
+verify_sign=AgwDs8PL9znZgGYbqkF0aaT2bzY0Aji9anzAi49WWdjemOERAIafNeD.
+txn_id=02P53903CJ092735G
+payment_type=instant
+last_name=hermo
+receiver_email=gardin_1344575780_biz@yahoo.com
+payment_fee=
+receiver_id=EPX27UQ8FP43G
+txn_type=web_accept
+item_name=Order number 00000042
+mc_currency=PHP
+item_number=
+residence_country=US
+test_ipn=1
+handling_amount=0.00
+transaction_subject=42
+payment_gross=
+shipping=0.00
+form_charset=UTF-8
+
+2012-12-20 12:25:41 url: /index.php?option=com_jshopping&controller=checkout&task=step7&act=notify&js_paymentclass=pm_paypal&no_lang=1
+mc_gross=75.00
+protection_eligibility=Ineligible
+payer_id=PHL9YV2HRRPMJ
+tax=0.00
+payment_date=20:25:37 Dec 19, 2012 PST
+payment_status=Completed
+charset=windows-1252
+first_name=greg
+mc_fee=17.18
+notify_version=3.7
+custom=43
+payer_status=verified
+business=gardin_1344575780_biz@yahoo.com
+quantity=1
+verify_sign=AFcWxV21C7fd0v3bYYYRCpSSRl31Al-kmMSDyJoVr6n4BoXKwQ8xA-pa
+payer_email=greg_1355799613_per@yahoo.com
+txn_id=3V850688AV7687401
+payment_type=instant
+last_name=hermo
+receiver_email=gardin_1344575780_biz@yahoo.com
+payment_fee=
+receiver_id=EPX27UQ8FP43G
+txn_type=web_accept
+item_name=Order number 00000043
+mc_currency=PHP
+item_number=
+residence_country=US
+test_ipn=1
+handling_amount=0.00
+transaction_subject=43
+payment_gross=
+shipping=0.00
+ipn_track_id=9de5f0aedc3c3
+
+2012-12-20 12:25:42 HTTP/1.0 302 Moved Temporarily
+Date: Thu, 20 Dec 2012 04:22:16 GMT
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Content-Length: 0
+X-Cache: MISS from cpe-tbi.pregi.net
+X-Cache-Lookup: MISS from cpe-tbi.pregi.net:3128
+Via: 1.0 cpe-tbi.pregi.net (squid/3.1.10)
+Connection: close
+
+
+2012-12-20 12:25:47 url: /index.php?option=com_jshopping&controller=checkout&task=step7&act=return&js_paymentclass=pm_paypal
+mc_gross=75.00
+protection_eligibility=Ineligible
+payer_id=PHL9YV2HRRPMJ
+tax=0.00
+payment_date=20:25:37 Dec 19, 2012 PST
+payment_status=Completed
+charset=windows-1252
+first_name=greg
+mc_fee=17.18
+notify_version=3.7
+custom=43
+payer_status=verified
+business=gardin_1344575780_biz@yahoo.com
+quantity=1
+payer_email=greg_1355799613_per@yahoo.com
+verify_sign=AFcWxV21C7fd0v3bYYYRCpSSRl31Al-kmMSDyJoVr6n4BoXKwQ8xA-pa
+txn_id=3V850688AV7687401
+payment_type=instant
+last_name=hermo
+receiver_email=gardin_1344575780_biz@yahoo.com
+payment_fee=
+receiver_id=EPX27UQ8FP43G
+txn_type=web_accept
+item_name=Order number 00000043
+mc_currency=PHP
+item_number=
+residence_country=US
+test_ipn=1
+handling_amount=0.00
+transaction_subject=43
+payment_gross=
+shipping=0.00
+form_charset=UTF-8
+
+2012-12-20 12:28:22 url: /index.php?option=com_jshopping&controller=checkout&task=step7&act=notify&js_paymentclass=pm_paypal&no_lang=1
+mc_gross=75.00
+protection_eligibility=Ineligible
+payer_id=PHL9YV2HRRPMJ
+tax=0.00
+payment_date=20:28:19 Dec 19, 2012 PST
+payment_status=Completed
+charset=windows-1252
+first_name=greg
+mc_fee=17.18
+notify_version=3.7
+custom=44
+payer_status=verified
+business=gardin_1344575780_biz@yahoo.com
+quantity=1
+verify_sign=AX3czCEDUN.GfjXTXwyUJUWfqW7nAikWtbgPa..Wx.zrX2HyzcdecFCZ
+payer_email=greg_1355799613_per@yahoo.com
+txn_id=3RV68102CG8992131
+payment_type=instant
+last_name=hermo
+receiver_email=gardin_1344575780_biz@yahoo.com
+payment_fee=
+receiver_id=EPX27UQ8FP43G
+txn_type=web_accept
+item_name=Order number 00000044
+mc_currency=PHP
+item_number=
+residence_country=US
+test_ipn=1
+handling_amount=0.00
+transaction_subject=44
+payment_gross=
+shipping=0.00
+ipn_track_id=25bf6bf7c674
+
+2012-12-20 12:28:28 HTTP/1.0 302 Moved Temporarily - -14
+Date: Thu, 20 Dec 2012 04:25:02 GMT - -18
+Location: https://www.sandbox.paypal.com - -10
+Server: BigIP - -3
+Content-Length: 0 - -19
+X-Cache: MISS from cpe-tbi.pregi.net - 2
+X-Cache-Lookup: MISS from cpe-tbi.pregi.net:3128 - 2
+Via: 1.0 cpe-tbi.pregi.net (squid/3.1.10) - 4
+Connection: close - -19
+ - -8
+
+2012-12-20 12:28:34 url: /index.php?option=com_jshopping&controller=checkout&task=step7&act=return&js_paymentclass=pm_paypal
+mc_gross=75.00
+protection_eligibility=Ineligible
+payer_id=PHL9YV2HRRPMJ
+tax=0.00
+payment_date=20:28:19 Dec 19, 2012 PST
+payment_status=Completed
+charset=windows-1252
+first_name=greg
+mc_fee=17.18
+notify_version=3.7
+custom=44
+payer_status=verified
+business=gardin_1344575780_biz@yahoo.com
+quantity=1
+payer_email=greg_1355799613_per@yahoo.com
+verify_sign=A3Bc5QJyfFuL3Nsba1laDcSQYLLhA1kLRsNrOsqNllwhsulpYPRjkOH7
+txn_id=3RV68102CG8992131
+payment_type=instant
+last_name=hermo
+receiver_email=gardin_1344575780_biz@yahoo.com
+payment_fee=
+receiver_id=EPX27UQ8FP43G
+txn_type=web_accept
+item_name=Order number 00000044
+mc_currency=PHP
+item_number=
+residence_country=US
+test_ipn=1
+handling_amount=0.00
+transaction_subject=44
+payment_gross=
+shipping=0.00
+form_charset=UTF-8
+
+2012-12-20 12:32:19 url: /index.php?option=com_jshopping&controller=checkout&task=step7&act=notify&js_paymentclass=pm_paypal&no_lang=1
+mc_gross=75.00
+protection_eligibility=Ineligible
+payer_id=PHL9YV2HRRPMJ
+tax=0.00
+payment_date=20:32:15 Dec 19, 2012 PST
+payment_status=Completed
+charset=windows-1252
+first_name=greg
+mc_fee=17.18
+notify_version=3.7
+custom=45
+payer_status=verified
+business=gardin_1344575780_biz@yahoo.com
+quantity=1
+verify_sign=AFcWxV21C7fd0v3bYYYRCpSSRl31AJsfBc0rGuS.CS3Jb7RBUdz7Rou8
+payer_email=greg_1355799613_per@yahoo.com
+txn_id=8BB1362345733373U
+payment_type=instant
+last_name=hermo
+receiver_email=gardin_1344575780_biz@yahoo.com
+payment_fee=
+receiver_id=EPX27UQ8FP43G
+txn_type=web_accept
+item_name=Order number 00000045
+mc_currency=PHP
+item_number=
+residence_country=US
+test_ipn=1
+handling_amount=0.00
+transaction_subject=45
+payment_gross=
+shipping=0.00
+ipn_track_id=64c12082d313e
+
+2012-12-20 12:32:25 ### BEGIN debug ###
+HTTP/1.0 302 Moved Temporarily
+Date: Thu, 20 Dec 2012 04:28:59 GMT
+Location: https://www.sandbox.paypal.com
+Server: BigIP
+Content-Length: 0
+X-Cache: MISS from cpe-tbi.pregi.net
+X-Cache-Lookup: MISS from cpe-tbi.pregi.net:3128
+Via: 1.0 cpe-tbi.pregi.net (squid/3.1.10)
+Connection: close
+
+### END debug ###
+2012-12-20 12:32:26 url: /index.php?option=com_jshopping&controller=checkout&task=step7&act=return&js_paymentclass=pm_paypal
+mc_gross=75.00
+protection_eligibility=Ineligible
+payer_id=PHL9YV2HRRPMJ
+tax=0.00
+payment_date=20:32:15 Dec 19, 2012 PST
+payment_status=Completed
+charset=windows-1252
+first_name=greg
+mc_fee=17.18
+notify_version=3.7
+custom=45
+payer_status=verified
+business=gardin_1344575780_biz@yahoo.com
+quantity=1
+payer_email=greg_1355799613_per@yahoo.com
+verify_sign=Ap0VyluTJS-AUa07kAFLKjVYbk9-AZ1tRRS0OoTRC6SSi4ZYv748aqQ0
+txn_id=8BB1362345733373U
+payment_type=instant
+last_name=hermo
+receiver_email=gardin_1344575780_biz@yahoo.com
+payment_fee=
+receiver_id=EPX27UQ8FP43G
+txn_type=web_accept
+item_name=Order number 00000045
+mc_currency=PHP
+item_number=
+residence_country=US
+test_ipn=1
+handling_amount=0.00
+transaction_subject=45
+payment_gross=
+shipping=0.00
+form_charset=UTF-8
+
+2012-12-20 12:36:33 url: /index.php?option=com_jshopping&controller=checkout&task=step7&act=notify&js_paymentclass=pm_paypal&no_lang=1
+mc_gross=75.00
+protection_eligibility=Ineligible
+payer_id=PHL9YV2HRRPMJ
+tax=0.00
+payment_date=20:36:30 Dec 19, 2012 PST
+payment_status=Completed
+charset=windows-1252
+first_name=greg
+mc_fee=17.18
+notify_version=3.7
+custom=46
+payer_status=verified
+business=gardin_1344575780_biz@yahoo.com
+quantity=1
+verify_sign=Ayso.fJY9.YvMvR.RaeIH.-3lMAXAz.lCrWCIeTmGlxdReaYAeXFbrRS
+payer_email=greg_1355799613_per@yahoo.com
+txn_id=257312277W114644U
+payment_type=instant
+last_name=hermo
+receiver_email=gardin_1344575780_biz@yahoo.com
+payment_fee=
+receiver_id=EPX27UQ8FP43G
+txn_type=web_accept
+item_name=Order number 00000046
+mc_currency=PHP
+item_number=
+residence_country=US
+test_ipn=1
+handling_amount=0.00
+transaction_subject=46
+payment_gross=
+shipping=0.00
+ipn_track_id=e0b179403fe16
+
+2012-12-20 12:36:40 url: /index.php?option=com_jshopping&controller=checkout&task=step7&act=return&js_paymentclass=pm_paypal
+mc_gross=75.00
+protection_eligibility=Ineligible
+payer_id=PHL9YV2HRRPMJ
+tax=0.00
+payment_date=20:36:30 Dec 19, 2012 PST
+payment_status=Completed
+charset=windows-1252
+first_name=greg
+mc_fee=17.18
+notify_version=3.7
+custom=46
+payer_status=verified
+business=gardin_1344575780_biz@yahoo.com
+quantity=1
+payer_email=greg_1355799613_per@yahoo.com
+verify_sign=ALYgBTUFKyq8ccKLxAw0tgM2SkoNAMWsdaErO79s-4ZSApKJZ6ExMiG1
+txn_id=257312277W114644U
+payment_type=instant
+last_name=hermo
+receiver_email=gardin_1344575780_biz@yahoo.com
+payment_fee=
+receiver_id=EPX27UQ8FP43G
+txn_type=web_accept
+item_name=Order number 00000046
+mc_currency=PHP
+item_number=
+residence_country=US
+test_ipn=1
+handling_amount=0.00
+transaction_subject=46
+payment_gross=
+shipping=0.00
+form_charset=UTF-8
+
+2012-12-20 12:40:23 url: /index.php?option=com_jshopping&controller=checkout&task=step7&act=notify&js_paymentclass=pm_paypal&no_lang=1
+mc_gross=75.00
+protection_eligibility=Ineligible
+payer_id=PHL9YV2HRRPMJ
+tax=0.00
+payment_date=20:40:19 Dec 19, 2012 PST
+payment_status=Completed
+charset=windows-1252
+first_name=greg
+mc_fee=17.18
+notify_version=3.7
+custom=47
+payer_status=verified
+business=gardin_1344575780_biz@yahoo.com
+quantity=1
+verify_sign=AFcWxV21C7fd0v3bYYYRCpSSRl31APsqv6iLlIcHR7D1xUNz1ExJVanD
+payer_email=greg_1355799613_per@yahoo.com
+txn_id=5ER07924EH497161U
+payment_type=instant
+last_name=hermo
+receiver_email=gardin_1344575780_biz@yahoo.com
+payment_fee=
+receiver_id=EPX27UQ8FP43G
+txn_type=web_accept
+item_name=Order number 00000047
+mc_currency=PHP
+item_number=
+residence_country=US
+test_ipn=1
+handling_amount=0.00
+transaction_subject=47
+payment_gross=
+shipping=0.00
+ipn_track_id=fd3cd52b1b4fa
+
+2012-12-20 12:40:29 url: /index.php?option=com_jshopping&controller=checkout&task=step7&act=return&js_paymentclass=pm_paypal
+mc_gross=75.00
+protection_eligibility=Ineligible
+payer_id=PHL9YV2HRRPMJ
+tax=0.00
+payment_date=20:40:19 Dec 19, 2012 PST
+payment_status=Completed
+charset=windows-1252
+first_name=greg
+mc_fee=17.18
+notify_version=3.7
+custom=47
+payer_status=verified
+business=gardin_1344575780_biz@yahoo.com
+quantity=1
+payer_email=greg_1355799613_per@yahoo.com
+verify_sign=AiHwfKu6hj-RgIw5WapapxQlAWEgA3jIdgxN3lHJ1RKMo4jQr2pE7LGe
+txn_id=5ER07924EH497161U
+payment_type=instant
+last_name=hermo
+receiver_email=gardin_1344575780_biz@yahoo.com
+payment_fee=
+receiver_id=EPX27UQ8FP43G
+txn_type=web_accept
+item_name=Order number 00000047
+mc_currency=PHP
+item_number=
+residence_country=US
+test_ipn=1
+handling_amount=0.00
+transaction_subject=47
+payment_gross=
+shipping=0.00
+merchant_return_link=click here
+form_charset=UTF-8
+

@@ -57,7 +57,7 @@ class pm_paypal extends PaymentRoot{
         $header .= "Host: ".$hostname."\r\n";
 		$header .= "Connection: close\r\n";
         $header .= "Content-Length: ".strlen($req)."\r\n\r\n";
-        $debug = "";
+        $debug = "### BEGIN debug ###\n";
 
         $port = 80;
         if ($pmconfigs['use_ssl']) $port = 443;
@@ -70,7 +70,8 @@ class pm_paypal extends PaymentRoot{
                 $res = @fgets($fp, 1024);
 				$res = trim($res);
                 $debug .= $res."\n";
-                if (strcmp ($res, "VERIFIED") == 0) {
+                if (strcasecmp ($res, "VERIFIED") == 0) {
+                	//$debug .= "payment status - ".$payment_status."\n";
                     if ($payment_status == 'Completed'){
                         return array(1, '');
                     } elseif ($payment_status == 'Pending') {
@@ -88,6 +89,7 @@ class pm_paypal extends PaymentRoot{
                 }
             }
             fclose ($fp);
+            $debug .= "### END debug ###";
             if ($jshopConfig->savelog && $jshopConfig->savelogpaymentdata){
                 saveToLog("paymentdata.log", $debug);
             }
@@ -164,6 +166,7 @@ class pm_paypal extends PaymentRoot{
         $params['hash'] = "";
         $params['checkHash'] = 0;
         $params['checkReturnParams'] = $pmconfigs['checkdatareturn'];
+        //$params['checkReturnParams'] =0; $pmconfigs['checkdatareturn'];
     return $params;
     }
     
